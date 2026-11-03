@@ -1,0 +1,26 @@
+# 编译产物
+*.o
+*.ko
+*.cmd
+*.mod
+*.mod.c
+*.symvers
+*.order
+*.builtin
+*.bin
+*.elf
+*.imx
+*.dis
+*.tmp
+a.out
+imxdownload
+
+# 编译生成的App可执行程序
+*App
+chrdevbaseApp_x86
+
+# IDE/配置
+.vscode/
+*.code-workspace
+*.bak
+*.swp
